@@ -1,0 +1,106 @@
+[
+  {
+    "numdientes": 12,
+    "Y": 0.245
+  },
+  {
+    "numdientes": 13,
+    "Y": 0.261
+  },
+  {
+    "numdientes": 14,
+    "Y": 0.277
+  },
+  {
+    "numdientes": 15,
+    "Y": 0.29
+  },
+  {
+    "numdientes": 16,
+    "Y": 0.296
+  },
+  {
+    "numdientes": 17,
+    "Y": 0.303
+  },
+  {
+    "numdientes": 18,
+    "Y": 0.309
+  },
+  {
+    "numdientes": 19,
+    "Y": 0.314
+  },
+  {
+    "numdientes": 20,
+    "Y": 0.322
+  },
+  {
+    "numdientes": 21,
+    "Y": 0.328
+  },
+  {
+    "numdientes": 22,
+    "Y": 0.331
+  },
+  {
+    "numdientes": 24,
+    "Y": 0.337
+  },
+  {
+    "numdientes": 26,
+    "Y": 0.346
+  },
+  {
+    "numdientes": 28,
+    "Y": 0.353
+  },
+  {
+    "numdientes": 30,
+    "Y": 0.359
+  },
+  {
+    "numdientes": 34,
+    "Y": 0.371
+  },
+  {
+    "numdientes": 38,
+    "Y": 0.384
+  },
+  {
+    "numdientes": 43,
+    "Y": 0.397
+  },
+  {
+    "numdientes": 50,
+    "Y": 0.409
+  },
+  {
+    "numdientes": 60,
+    "Y": 0.422
+  },
+  {
+    "numdientes": 75,
+    "Y": 0.435
+  },
+  {
+    "numdientes": 100,
+    "Y": 0.447
+  },
+  {
+    "numdientes": 150,
+    "Y": 0.46
+  },
+  {
+    "numdientes": 300,
+    "Y": 0.472
+  },
+  {
+    "numdientes": 400,
+    "Y": 0.48
+  },
+  {
+    "numdientes": "rack",
+    "Y": 0.485
+  }
+]

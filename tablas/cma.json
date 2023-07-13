@@ -1,0 +1,26 @@
+[
+  {
+    "condicion": "engranajes_abiertos",
+    "A": 0.247,
+    "B": 0.0167,
+    "C": -0.0000765
+  },
+  {
+    "condicion": "comerciales_cerradas",
+    "A": 0.127,
+    "B": 0.0158,
+    "C": -0.000093
+  },
+  {
+    "condicion": "precision_cerradas",
+    "A": 0.0675,
+    "B": 0.0128,
+    "C": -0.0000926
+  },
+  {
+    "condicion": "precision_extrema_cerradas",
+    "A": 0.0036,
+    "B": 0.0102,
+    "C": -82.2
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "confiabilidad": 0.9999,
+    "KR": 1.5
+  },
+  {
+    "confiabilidad": 0.999,
+    "KR": 1.25
+  },
+  {
+    "confiabilidad": 0.99,
+    "KR": 1
+  },
+  {
+    "confiabilidad": 0.9,
+    "KR": 0.85
+  },
+  {
+    "confiabilidad": 0.5,
+    "KR": "0.7"
+  }
+]
